@@ -17,3 +17,6 @@ The set of pairs (a, b) for all non-negative real a,b
 >Ans:-this set of pairs (a,b) for all real a >= b
 
 ![Explaination of problems]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/Ashish-neo/nextgrowthlabs_Jr-Data-Scientst_Evaluation/blob/main/EXPLAIN.webm))
+
+
+##deploy app link:- https://ashish-neo-nextgrowthlabs-jr-data-scientst-evaluati-main-1o6kem.streamlitapp.com/
